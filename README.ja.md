@@ -51,10 +51,10 @@
 <h2 id="getting-started"> :arrow_forward: 起動方法</h2>
 
 <p><b>1. 初めて起動する場合</b> - イメージ構築、コンテナ構築・起動を一括で実行</p>
-<pre><code>$ docker-compose up --build -d</code></pre>
+<pre><code>$ docker compose up --build -d</code></pre>
 
 <p><b>2. 起動2回目以降の場合</b> - コンテナ構築・起動を実行</p>
-<pre><code>$ docker-compose up -d</code></pre>
+<pre><code>$ docker compose up -d</code></pre>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
