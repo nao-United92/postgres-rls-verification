@@ -16,14 +16,13 @@ English | [日本語](https://github.com/nao-United92/postgres-rls-verifycation/
   </ol>
 </details>
 
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- Overview -->
 <h2 id="overview"> :cloud: Overview</h2>
 
 <p align="justify">
-  This is a project repository for <b>Row Level Security Verification</b>.<br>
+  This is a repository for <b>Row Level Security Verification</b>.<br>
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -33,12 +32,12 @@ English | [日本語](https://github.com/nao-United92/postgres-rls-verifycation/
 
 <h3>Dockerfile</h3>
 <ul>
-  Specify Docker image, install hot reload tool (air), and change WORKDIR
+  Specify Docker image, Locale Japanese settings
 </ul>
 
 <h3>compose.yaml</h3>
 <ul>
-  Container definitions for the app server (go), DB server (db), and DB client tool (phpmyadmin) are described.
+  Container definitions for DB server (db) are described.
 </ul>
 
 <h3>rls_verification.sql</h3>
