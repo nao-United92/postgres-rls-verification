@@ -1,4 +1,4 @@
-<h1 align="center"> PostgreSQL RLS Verifycation </h1>
+<h1 align="center"> PostgreSQL RLS Verification </h1>
 
 English | [日本語](https://github.com/nao-United92/postgres-rls-verifycation/blob/main/README.ja.md)</h2>
 
