@@ -1,6 +1,6 @@
 <h1 align="center"> PostgreSQL RLS Verification </h1>
 
-English | [日本語](https://github.com/nao-United92/postgres-rls-verifycation/blob/main/README.ja.md)</h2>
+English | [日本語](https://github.com/nao-United92/postgres-rls-verification/blob/main/README.ja.md)</h2>
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: TABLE OF CONTENTS</h2>
